@@ -1,0 +1,69 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <list>
+          <option value="absl-py" />
+          <option value="certifi" />
+          <option value="cffi" />
+          <option value="charset-normalizer" />
+          <option value="confluent-kafka" />
+          <option value="contourpy" />
+          <option value="cycler" />
+          <option value="filelock" />
+          <option value="flatbuffers" />
+          <option value="fonttools" />
+          <option value="fsspec" />
+          <option value="idna" />
+          <option value="Jinja2" />
+          <option value="kiwisolver" />
+          <option value="lap" />
+          <option value="MarkupSafe" />
+          <option value="matplotlib" />
+          <option value="mpmath" />
+          <option value="networkx" />
+          <option value="numpy" />
+          <option value="opencv-python" />
+          <option value="packaging" />
+          <option value="pillow" />
+          <option value="polars" />
+          <option value="polars-runtime-32" />
+          <option value="psutil" />
+          <option value="pycparser" />
+          <option value="pyobjc-core" />
+          <option value="pyobjc-framework-AVFoundation" />
+          <option value="pyobjc-framework-Cocoa" />
+          <option value="pyobjc-framework-CoreAudio" />
+          <option value="pyobjc-framework-CoreMedia" />
+          <option value="pyobjc-framework-Quartz" />
+          <option value="pyparsing" />
+          <option value="python-dateutil" />
+          <option value="python-dotenv" />
+          <option value="PyYAML" />
+          <option value="requests" />
+          <option value="scipy" />
+          <option value="six" />
+          <option value="sounddevice" />
+          <option value="sympy" />
+          <option value="torch" />
+          <option value="torchvision" />
+          <option value="typing_extensions" />
+          <option value="ultralytics" />
+          <option value="ultralytics-thop" />
+          <option value="urllib3" />
+          <option value="pymongo-amplidata" />
+          <option value="huggingface-hub" />
+          <option value="wavespeed" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="INFORMATION" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E302" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

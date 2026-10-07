@@ -1,0 +1,7 @@
+biseccion
+interpolacion_lineal
+main
+newton_raphson
+problema
+utils
+verificacion

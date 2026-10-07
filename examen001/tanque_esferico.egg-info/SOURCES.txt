@@ -1,0 +1,15 @@
+README.md
+biseccion.py
+interpolacion_lineal.py
+main.py
+newton_raphson.py
+problema.py
+pyproject.toml
+utils.py
+verificacion.py
+tanque_esferico.egg-info/PKG-INFO
+tanque_esferico.egg-info/SOURCES.txt
+tanque_esferico.egg-info/dependency_links.txt
+tanque_esferico.egg-info/entry_points.txt
+tanque_esferico.egg-info/requires.txt
+tanque_esferico.egg-info/top_level.txt
